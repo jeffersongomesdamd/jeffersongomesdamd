@@ -63,17 +63,27 @@
 
 ## 💬 &nbsp;Contact
 
-<p align="left" style="background:blueviolet">
+<p align="left">
+
 <a href="https://www.linkedin.com/in/jefferson-gomes-raiobrine/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+
 <a href="https://www.instagram.com/jefftheson_/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+
 <a href="https://www.facebook.com/jefferson.gomes.14473426" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook" alt="facebook"/>
 </a>
+
 <a href="https://open.spotify.com/user/raiobrine?si=bb433bc2c3ee40de" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Spotify-05122A?style=flat&logo=spotify" alt="spotify"/>
 </a>
+
+<a href="mailto:jeffersongomesdamd@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="email"/>
+</a>
+
 </p>
+
