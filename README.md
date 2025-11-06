@@ -55,8 +55,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Raiobrine&show_icons=true&theme=ocean_dark" alt="Raiobrine's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiobrine&layout=compact&theme=ocean_dark" alt="Raiobrine's most languages"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=jeffersongomesdamd&show_icons=true&theme=ocean_dark" alt="Jefferson Gomes' stats"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersongomesdamd&layout=compact&theme=ocean_dark" alt="Jefferson Gomes' most used languages"/>
 </p>
 
 <br><br>
